@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 ### About me
-Anthony Nie
+Anthony Nie   
 Senior Technical Support Engineer & Global Technical Support Group of PingCAP
 
-PingCAP Ltd.  www.pingcap.com
+PingCAP Ltd.  www.pingcap.com   
 TiDB - an open source HTAP (Hybrid transaction / analytical processing) database. 
 
-Github: https://github.com/pingcap/tidb  (20000+ stars along with TiKV)
+Github: https://github.com/pingcap/tidb  (20000+ stars along with TiKV)   
 Docs:   https://pingcap.com/docs-cn 
 
 
